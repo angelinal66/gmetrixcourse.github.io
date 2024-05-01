@@ -13,3 +13,8 @@ p {
 #sidenote {
     background-color:#dbd9d9;
 }
+a:hover{
+  text-decoration: none;
+  text-decoration: underline;
+  font-weight: bold;
+}
