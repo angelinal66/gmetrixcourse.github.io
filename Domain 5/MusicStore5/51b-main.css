@@ -11,11 +11,13 @@ p {
 figcaption {
     color: navy;
     font-weight: bold;
-    /*background-color: #AAEEFF;*/
+    background-color: #AAEEFF;
+    display:inline;
 }
 .sale {
     font-weight: bold;
     background-color: #AAEEFF;
+    display:inline;
 }
 #sidenote {
     background-color: #DDDDDD;
